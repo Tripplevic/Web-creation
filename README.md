@@ -3,75 +3,71 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <meta name="description" content="Victor Yegon's Hotel - Open 24/7 in Bomet, offering delicious meals, comfortable rooms, and free coffee with every dinner." />
-  <title>Victor Yegon's Hotel | Open 24/7 in Bomet</title>
+  <meta name="description" content="Victor Yegon's Hotel offers luxury accommodation and a delicious variety of dishes with top-tier hospitality in the heart of the city." />
+  <title>Victor Yegon’s Hotel</title>
 </head>
+
 <body>
-
   <header>
-    <h1>Victor Yegon's Hotel</h1>
-    <p>Open 24/7 | Delicious meals & comfortable stay in Bomet</p>
+    <h1>Victor Yegon’s Hotel</h1>
+    <nav aria-label="Main Navigation">
+      <ul>
+        <li><a href="#about">About Us</a></li>
+        <li><a href="#menu">Our Menu</a></li>
+        <li><a href="#services">Services</a></li>
+        <li><a href="#contact">Contact</a></li>
+      </ul>
+    </nav>
   </header>
-
-  <nav aria-label="Main navigation">
-    <ul>
-      <li><a href="#breakfast">Breakfast</a></li>
-      <li><a href="#lunch">Lunch</a></li>
-      <li><a href="#supper">Supper</a></li>
-      <li><a href="#drinks">Drinks</a></li>
-    </ul>
-  </nav>
 
   <main>
     <section id="about">
-      <h2>About Us</h2>
-      <p>We are located at Bomet, opposite Equity Bank branch. Our hotel is open 24/7 and serves the best dishes in town. We also offer free coffee for every dinner bought.</p>
-    </section>
-
-    <section id="rooms">
-      <h2>Rooms & Services</h2>
-      <p>We have 6 bed-sitters and 4 single rooms for your comfort.</p>
+      <h2>About Our Hotel</h2>
+      <p>Located in the heart of the city, Victor Yegon’s Hotel offers exceptional hospitality with modern comforts. Whether you're here for business or leisure, our staff is committed to making your stay memorable.</p>
     </section>
 
     <section id="menu">
       <h2>Our Menu</h2>
 
-      <article id="breakfast">
-        <h3>Breakfast</h3>
-        <img src="https://via.placeholder.com/400x250?text=Breakfast+Tea+%26+Coffee" alt="Breakfast tea and coffee" />
-        <p>Tea, Coffee, Soda, and Water</p>
+      <article>
+        <h3>Deluxe Beef Burger</h3>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Burger_%28black_bg%29.jpg" alt="A deluxe beef burger served with fries" width="300" />
+        <p>Juicy grilled beef patty with cheese, lettuce, tomatoes, and our special sauce, served with crispy fries.</p>
       </article>
 
-      <article id="lunch">
-        <h3>Lunch</h3>
-        <img src="https://via.placeholder.com/400x250?text=Ugali+Beef+Rice+Pilau" alt="Lunch with Ugali, Beef, Rice, and Pilau" />
-        <p>Ugali, Beef, Rice, Pilau, and Githeri</p>
+      <article>
+        <h3>Spaghetti Bolognese</h3>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/2/28/Spaghetti_al_ragù_%28bolognese%29.jpg" alt="Plate of Spaghetti Bolognese" width="300" />
+        <p>Classic Italian pasta topped with rich meat sauce and freshly grated parmesan cheese.</p>
       </article>
 
-      <article id="supper">
-        <h3>Supper</h3>
-        <img src="https://via.placeholder.com/400x250?text=Ugali+Sukuma+Beef+Ndengu" alt="Supper with Ugali, Sukuma, Beef, Rice, and Ndengu" />
-        <p>Ugali, Sukuma, Beef, Rice, Pilau, and Ndengu</p>
+      <article>
+        <h3>Grilled Chicken with Vegetables</h3>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/b/b3/Grilled_chicken_with_vegetables.jpg" alt="Grilled chicken breast with mixed vegetables" width="300" />
+        <p>Perfectly seasoned grilled chicken served with a side of steamed mixed vegetables and mashed potatoes.</p>
       </article>
+    </section>
 
-      <article id="drinks">
-        <h3>Drinks</h3>
-        <img src="https://via.placeholder.com/400x250?text=Free+Coffee+%26+Beverages" alt="Coffee and beverages" />
-        <p>Free coffee with every dinner, plus other beverages available.</p>
-      </article>
+    <section id="services">
+      <h2>Our Services</h2>
+      <ul>
+        <li>Free Wi-Fi</li>
+        <li>24/7 Reception</li>
+        <li>Airport Shuttle</li>
+        <li>Wheelchair Accessible Rooms</li>
+      </ul>
     </section>
 
     <section id="contact">
       <h2>Contact Us</h2>
-      <p>Email: <a href="mailto:viconshtotel@gmail.com">viconshtotel@gmail.com</a></p>
-      <p>Phone: <a href="tel:+254724349329">+254 724 349 329</a></p>
+      <p>Email: <a href="mailto:info@victoryegonhotel.com">info@victoryegonhotel.com</a></p>
+      <p>Phone: +254 700 000000</p>
+      <p>Location: Nairobi, Kenya</p>
     </section>
   </main>
 
   <footer>
-    <p>&copy; 2025 Victor Yegon's Hotel. All rights reserved.</p>
-    <p>Follow us on Instagram: <a href="https://instagram.com/victoryegon">@victoryegon</a></p>
+    <p>&copy; 2025 Victor Yegon’s Hotel. All rights reserved.</p>
   </footer>
-
 </body>
 </html>
